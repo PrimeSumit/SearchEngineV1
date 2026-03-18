@@ -1,3 +1,0 @@
-<![CDATA[Building Scalable Microservices with Node.js: A Practical Guide]]>
-
-<![CDATA[<div class="medium-feed-item"><p class="medium-feed-image"><a href="https://mrgulshanyadav.medium.com/building-scalable-microservices-with-node-js-a-practical-guide-4493abfc40b8?source=rss------nodejs-5"><img src="https://cdn-images-1.medium.com/max/2600/0*S6WjvZpfxuIST1EB" width="7680"></a></p><p class="medium-feed-snippet">I spent 8 years building monolithic Node.js applications.</p><p class="medium-feed-link"><a href="https://mrgulshanyadav.medium.com/building-scalable-microservices-with-node-js-a-practical-guide-4493abfc40b8?source=rss------nodejs-5">Continue reading on Medium »</a></p></div>]]>

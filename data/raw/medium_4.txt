@@ -1,3 +1,0 @@
-<![CDATA[Terminal Game in Python]]>
-
-<![CDATA[<div class="medium-feed-item"><p class="medium-feed-snippet">Codecademy prompted me to release some python code as a game and make a blog post showing it off. So here you go! I&#x2019;ve never heard of&#x2026;</p><p class="medium-feed-link"><a href="https://medium.com/@kittykillinit04/terminal-game-in-python-5cc1764ebfcf?source=rss------programming-5">Continue reading on Medium »</a></p></div>]]>

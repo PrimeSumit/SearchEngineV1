@@ -1,3 +1,0 @@
-<![CDATA[Node Outages Start Small]]>
-
-<![CDATA[<div class="medium-feed-item"><p class="medium-feed-image"><a href="https://medium.com/@jickpatel611/node-outages-start-small-ab205efed13c?source=rss------programming-5"><img src="https://cdn-images-1.medium.com/max/1536/1*JSV9W7eUpIm80CHiQiWgsw.png" width="1536"></a></p><p class="medium-feed-snippet">Ten tiny assumptions in Node.js systems that quietly grow into real production incidents, latency spikes, and painful late-night rollbacks.</p><p class="medium-feed-link"><a href="https://medium.com/@jickpatel611/node-outages-start-small-ab205efed13c?source=rss------programming-5">Continue reading on Medium »</a></p></div>]]>

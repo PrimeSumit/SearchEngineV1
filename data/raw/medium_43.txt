@@ -1,3 +1,0 @@
-<![CDATA[8 Chrome Extensions Every Developer Should Install]]>
-
-<![CDATA[<div class="medium-feed-item"><p class="medium-feed-image"><a href="https://medium.com/@kishan.kumar792/8-chrome-extensions-every-developer-should-install-ae1d0629a800?source=rss------web_development-5"><img src="https://cdn-images-1.medium.com/max/2600/0*KbPNygZYx2NC6jUO" width="3882"></a></p><p class="medium-feed-snippet">These Chrome extensions help developers debug faster, inspect websites, and streamline their daily workflow.</p><p class="medium-feed-link"><a href="https://medium.com/@kishan.kumar792/8-chrome-extensions-every-developer-should-install-ae1d0629a800?source=rss------web_development-5">Continue reading on Medium »</a></p></div>]]>

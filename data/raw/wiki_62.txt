@@ -1,3 +1,0 @@
-Chicago (typeface)
-
-Chicago is a sans-serif typeface designed by Susan Kare for Apple Computer. It was used in the Macintosh operating system user interface between 1984 and 1997 and was an important part of Apple's brand identity. It was also used in early versions of the iPod user interface. Chicago was initially a bitmap font; as the Apple OS’s capabilities improved, Apple commissioned the type foundry Bigelow & Holmes to create a vector-based TrueType version. The typeface is named after the U.S. city of Chicago, following the theme of original Macintosh fonts being named after major world cities.

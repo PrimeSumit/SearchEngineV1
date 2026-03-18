@@ -1,3 +1,0 @@
-<![CDATA[Automate Multi-Site Maintenance, Backups & Security]]>
-
-<![CDATA[<div class="medium-feed-item"><p class="medium-feed-image"><a href="https://medium.com/@nelsomirbiswas52/automate-multi-site-maintenance-backups-security-223cec3e683f?source=rss------web_development-5"><img src="https://cdn-images-1.medium.com/max/1024/1*pXSPhqVbZ50fGORuspBnig.png" width="1024"></a></p><p class="medium-feed-snippet">A Smarter Way to Manage Multiple Websites Efficiently</p><p class="medium-feed-link"><a href="https://medium.com/@nelsomirbiswas52/automate-multi-site-maintenance-backups-security-223cec3e683f?source=rss------web_development-5">Continue reading on Medium »</a></p></div>]]>

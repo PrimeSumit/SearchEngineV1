@@ -1,3 +1,0 @@
-<![CDATA[Must-Take Precautions While Designing Your Backend]]>
-
-<![CDATA[<div class="medium-feed-item"><p class="medium-feed-image"><a href="https://zerion0.medium.com/must-take-precautions-while-designing-your-backend-5feae108bada?source=rss------nodejs-5"><img src="https://cdn-images-1.medium.com/max/1005/1*vLR5iafW0D01KMSWOU_0Sw.png" width="1005"></a></p><p class="medium-feed-snippet">Most backend systems don&#x2019;t fail because of bad logic. They fail because of bad structure, blind trust, and decisions made in a hurry that&#x2026;</p><p class="medium-feed-link"><a href="https://zerion0.medium.com/must-take-precautions-while-designing-your-backend-5feae108bada?source=rss------nodejs-5">Continue reading on Medium »</a></p></div>]]>
