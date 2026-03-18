@@ -1,0 +1,7 @@
+<![CDATA[I Thought I Understood Multithreading… Until This Bug Cost Me 3 Days]]>
+
+<![CDATA[<div class="medium-feed-item"><p class="medium-feed-image"><a href="https://medium.com/@the_atomic_architect/multithreading-bug-that-cost-me-3-days-java-race-condition-f6631c8cece8?source=rss------programming-5"><img src="https://cdn-images-1.medium.com/max/1536/1*29xj540ubr4gsqXThUCWJQ.png" width="1536"></a></p><p class="medium-feed-snippet">The night I realized I didn&#x2019;t actually understand concurrency.
+Three days.
+That&#x2019;s how long the bug stayed hidden.
+Not three hours.
+Not a&#x2026;</p><p class="medium-feed-link"><a href="https://medium.com/@the_atomic_architect/multithreading-bug-that-cost-me-3-days-java-race-condition-f6631c8cece8?source=rss------programming-5">Continue reading on Medium »</a></p></div>]]>
